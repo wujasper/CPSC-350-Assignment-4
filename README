@@ -1,0 +1,37 @@
+Full Name: Jasper Wu
+Student ID: 2339715
+Chapman email: jaswu@chapman.edu
+Course number and section: 350-01
+Assignment Number: 4
+
+1.) List of source files submitted
+  a. doublylist.cpp
+  b. doublylistbase.cpp
+  c. fileio.h
+  d. fileio.cpp
+  e. main.cpp
+  f. queue.cpp
+  g. queue.h
+  h. registrar.cpp
+  i. registrar.h
+  j. student.cpp
+  k. student.h
+  l. window.cpp
+  m. window.h
+  n. Makefile
+  o. README
+
+2.) Description of any known compile/runtime errors, or bugs
+  a. No known compile/runtime errors, or bugs
+
+3.) References used to complete the assignment
+  a. virtual base class
+     https://www.learncpp.com/cpp-tutorial/128-virtual-base-classes/comment-page-1/
+  b. virtual function
+     https://www.learncpp.com/cpp-tutorial/126-pure-virtual-functions-abstract-base-classes-and-    interface-classes/
+  c. base class as an interface
+     https://stackoverflow.com/questions/3686210/c-using-a-base-class-as-the-implementation-of-an-  interface
+  d. operator overloading
+     https://www.programiz.com/cpp-programming/operator-overloading
+  e. object equality
+https://stackoverflow.com/questions/16843323/c-object-equality
